@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "phoneNumberValidation": {
+  "validation": {
     "name": "typicode"
   }
 }
