@@ -1,0 +1,9 @@
+{
+  "validatePhoneNumber": {
+      "phoneNo" : "0987654321",
+      "isEnabled" : "true"
+  },
+  "profile": {
+    "name": "typicode"
+  }
+}
