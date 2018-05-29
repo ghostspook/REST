@@ -5,10 +5,11 @@
       "title": "hello"
     }
   ],
-  "validations": [
+  "phoneNumberValidations": [
     {
-      "id": "0990311661",
-      "title": "hello"
+      "id": "087654321",
+      "phoneNo" : "0987654321",
+      "isEnabled" : "true"
     }
   ],
   "profile": {
