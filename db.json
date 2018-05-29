@@ -5,9 +5,12 @@
       "title": "hello"
     }
   ],
-  "validation": {
-    "name": "typicode"
-  },
+  "validations": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
